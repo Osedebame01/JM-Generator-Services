@@ -711,6 +711,7 @@ footer{
         flex-direction: column;
     }
     .service-card{
+        height: auto;
         padding: 5%;
     }
     .services-img{
@@ -731,7 +732,7 @@ footer{
         top: 70%;
     }
     .spacer-div{
-        height: 1500px ;
+        height: 1600px ;
     }
     .testimonials{
         margin-top: 0%;
