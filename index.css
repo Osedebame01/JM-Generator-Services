@@ -710,6 +710,9 @@ footer{
         display: flex;
         flex-direction: column;
     }
+    .service-card{
+        padding: 5%;
+    }
     .services-img{
         height: 100%;
     }
